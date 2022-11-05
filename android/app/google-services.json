@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957851545157",
+    "project_id": "docbox-fire",
+    "storage_bucket": "docbox-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957851545157:android:e0d7616526e1c383f2bd2c",
+        "android_client_info": {
+          "package_name": "com.example.docfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957851545157-29fo8ss1b9nh725ra2gmmlkpludfkbkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_aZIT6HAUKudY0TrSJo95zQnDfC_m2JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957851545157-29fo8ss1b9nh725ra2gmmlkpludfkbkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
