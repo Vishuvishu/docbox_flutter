@@ -1,6 +1,6 @@
 # docfriend
 
-A new Flutter project.
+This project is made for prototyping a basic application for doctor app.
 
 ## Getting Started
 
